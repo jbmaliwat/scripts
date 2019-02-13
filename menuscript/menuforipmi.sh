@@ -2,7 +2,7 @@
 #IPMI tool#
 #create by: JB - 02/12/2019#
 
-SCRIPTDIR=/home/jbmaliwat/Documents/gitscripts/menuscript/bin
+SCRIPTDIR=~/Documents/gitscripts/menuscript/bin
 while true
 do
 clear; cat <<EOF
